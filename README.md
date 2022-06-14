@@ -1,1 +1,1 @@
-# Numeric-Methods-CW
+# Numerical Methods Course Work
